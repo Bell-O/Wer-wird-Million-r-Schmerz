@@ -1,0 +1,1202 @@
+[
+  {
+    "question": "Was ist Schmerz?",
+    "answers": {
+      "a": "Nur ein körperliches Erlebnis",
+      "b": "Nur ein psychisches Erlebnis",
+      "c": "Ein unangenehmes sensorisches und emotionales Erlebnis",
+      "d": "Nur eine Verletzung"
+    },
+    "correct": "c"
+  },
+  {
+    "question": "Wodurch kann Schmerz entstehen?",
+    "answers": {
+      "a": "Tatsächliche Gewebeschädigung",
+      "b": "Potentielle Gewebeschädigung",
+      "c": "Emotionale Belastung",
+      "d": "Alle Antworten sind richtig"
+    },
+    "correct": "d"
+  },
+  {
+    "question": "Wie nennt man den ersten Schmerz?",
+    "answers": {
+      "a": "Dumpfer Schmerz",
+      "b": "Warnsignal",
+      "c": "Chronischer Schmerz",
+      "d": "Viszeraler Schmerz"
+    },
+    "correct": "b"
+  },
+  {
+    "question": "Wie wird der erste Schmerz beschrieben?",
+    "answers": {
+      "a": "Dumpf",
+      "b": "Stechend",
+      "c": "Krampfartig",
+      "d": "Brennend"
+    },
+    "correct": "b"
+  },
+  {
+    "question": "Wie wird der zweite Schmerz beschrieben?",
+    "answers": {
+      "a": "Stechend",
+      "b": "Dumpf",
+      "c": "Elektrisierend",
+      "d": "Pulsierend"
+    },
+    "correct": "b"
+  },
+  {
+    "question": "Wie lange liegen erster und zweiter Schmerz ungefähr auseinander?",
+    "answers": {
+      "a": "5–10 Sekunden",
+      "b": "10–20 Sekunden",
+      "c": "1–3 Sekunden",
+      "d": "30 Sekunden"
+    },
+    "correct": "c"
+  },
+  {
+    "question": "Warum entsteht der zeitliche Unterschied?",
+    "answers": {
+      "a": "Unterschiedliche Schmerzstärke",
+      "b": "Unterschiedliche Nervenfasern",
+      "c": "Unterschiedliche Organe",
+      "d": "Unterschiedliche Blutversorgung"
+    },
+    "correct": "b"
+  },
+  {
+    "question": "Welche Fasern leiten den ersten Schmerz?",
+    "answers": {
+      "a": "C-Fasern",
+      "b": "A-Delta-Fasern",
+      "c": "Motorische Fasern",
+      "d": "Vegetative Fasern"
+    },
+    "correct": "b"
+  },
+  {
+    "question": "Welche Fasern leiten den zweiten Schmerz?",
+    "answers": {
+      "a": "A-Delta-Fasern",
+      "b": "C-Fasern",
+      "c": "Motorische Fasern",
+      "d": "Alpha-Fasern"
+    },
+    "correct": "b"
+  },
+  {
+    "question": "Was nehmen Nozizeptoren wahr?",
+    "answers": {
+      "a": "Druck",
+      "b": "Schmerzreize",
+      "c": "Licht",
+      "d": "Geräusche"
+    },
+    "correct": "b"
+  },
+  {
+    "question": "Wo befinden sich Nozizeptoren?",
+    "answers": {
+      "a": "Nur im Gehirn",
+      "b": "Nur im Rückenmark",
+      "c": "Im Gewebe des Körpers",
+      "d": "Nur in Muskeln"
+    },
+    "correct": "c"
+  },
+  {
+    "question": "Was aktiviert Nozizeptoren?",
+    "answers": {
+      "a": "Kalium und Entzündungsmediatoren",
+      "b": "Sauerstoff",
+      "c": "Zucker",
+      "d": "Insulin"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Was entsteht zusätzlich an einer verletzten Stelle?",
+    "answers": {
+      "a": "Ödem",
+      "b": "Tumor",
+      "c": "Fibrose",
+      "d": "Narbe"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Warum verursacht ein Ödem Schmerzen?",
+    "answers": {
+      "a": "Es kühlt das Gewebe.",
+      "b": "Es drückt auf Nozizeptoren.",
+      "c": "Es erhöht den Blutzucker.",
+      "d": "Es zerstört Knochen."
+    },
+    "correct": "b"
+  },
+  {
+    "question": "Welche Aussage trifft zu?",
+    "answers": {
+      "a": "Schmerz entsteht immer im Gehirn.",
+      "b": "Schmerz beginnt an den Nozizeptoren.",
+      "c": "Schmerz beginnt im Herzen.",
+      "d": "Schmerz beginnt in der Lunge."
+    },
+    "correct": "b"
+  },
+  {
+    "question": "Was passiert zuerst?",
+    "answers": {
+      "a": "Thalamus",
+      "b": "Großhirnrinde",
+      "c": "Nozizeptor",
+      "d": "Emotion"
+    },
+    "correct": "c"
+  },
+  {
+    "question": "Welches Organ entscheidet, ob Schmerz weitergeleitet wird?",
+    "answers": {
+      "a": "Herz",
+      "b": "Rückenmark",
+      "c": "Leber",
+      "d": "Lunge"
+    },
+    "correct": "b"
+  },
+  {
+    "question": "Wo entstehen Reflexe?",
+    "answers": {
+      "a": "Großhirn",
+      "b": "Rückenmark",
+      "c": "Herz",
+      "d": "Kleinhirn"
+    },
+    "correct": "b"
+  },
+  {
+    "question": "Welches Gehirnzentrum bewertet Schmerz emotional?",
+    "answers": {
+      "a": "Kleinhirn",
+      "b": "Limbisches System",
+      "c": "Hirnstamm",
+      "d": "Hypophyse"
+    },
+    "correct": "b"
+  },
+  {
+    "question": "Wo wird Schmerz bewusst wahrgenommen?",
+    "answers": {
+      "a": "Rückenmark",
+      "b": "Großhirnrinde",
+      "c": "Thalamus",
+      "d": "Kleinhirn"
+    },
+    "correct": "b"
+  },
+  {
+    "question": "Was ist ein akuter Schmerz?",
+    "answers": {
+      "a": "Schmerz über mehrere Jahre",
+      "b": "Schmerz nach einer frischen Verletzung",
+      "c": "Immer Nervenschmerz",
+      "d": "Phantomschmerz"
+    },
+    "correct": "b"
+  },
+  {
+    "question": "Wann spricht man von chronischem Schmerz?",
+    "answers": {
+      "a": "Nach 24 Stunden",
+      "b": "Nach einer Woche",
+      "c": "Nach etwa 3 Monaten",
+      "d": "Nach einem Jahr"
+    },
+    "correct": "c"
+  },
+  {
+    "question": "Warum werden chronische Schmerzen schlimmer?",
+    "answers": {
+      "a": "Die Nerven lernen den Schmerz schneller weiterzuleiten.",
+      "b": "Das Blut fließt schneller.",
+      "c": "Die Muskeln wachsen.",
+      "d": "Die Knochen werden härter."
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Was ist ein neuropathischer Schmerz?",
+    "answers": {
+      "a": "Hautschmerz",
+      "b": "Nervenschmerz",
+      "c": "Muskelschmerz",
+      "d": "Gelenkschmerz"
+    },
+    "correct": "b"
+  },
+  {
+    "question": "Welches Beispiel gehört zum neuropathischen Schmerz?",
+    "answers": {
+      "a": "Bandscheibenvorfall",
+      "b": "Prellung",
+      "c": "Verstauchung",
+      "d": "Muskelkater"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Wie ist ein somatischer Schmerz?",
+    "answers": {
+      "a": "Gut lokalisierbar",
+      "b": "Gar nicht lokalisierbar",
+      "c": "Immer psychisch",
+      "d": "Immer chronisch"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Wie ist ein viszeraler Schmerz?",
+    "answers": {
+      "a": "Gut lokalisierbar",
+      "b": "Dumpf und schlecht lokalisierbar",
+      "c": "Immer stechend",
+      "d": "Immer elektrisch"
+    },
+    "correct": "b"
+  },
+  {
+    "question": "Welches Beispiel ist viszeraler Schmerz?",
+    "answers": {
+      "a": "Magenschmerzen",
+      "b": "Schnittwunde",
+      "c": "Fingerverletzung",
+      "d": "Muskelkater"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Was ist Phantomschmerz?",
+    "answers": {
+      "a": "Eingebildeter Schmerz",
+      "b": "Schmerz nach einer Amputation",
+      "c": "Gelenkschmerz",
+      "d": "Muskelkater"
+    },
+    "correct": "b"
+  },
+  {
+    "question": "Ist Phantomschmerz real?",
+    "answers": {
+      "a": "Ja",
+      "b": "Nein",
+      "c": "Nur bei Kindern",
+      "d": "Nur bei alten Menschen"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Welcher Schmerz entsteht durch Hitze?",
+    "answers": {
+      "a": "Thermischer Schmerz",
+      "b": "Mechanischer Schmerz",
+      "c": "Chemischer Schmerz",
+      "d": "Viszeraler Schmerz"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Welcher Schmerz entsteht durch einen Schnitt?",
+    "answers": {
+      "a": "Mechanischer Schmerz",
+      "b": "Chemischer Schmerz",
+      "c": "Thermischer Schmerz",
+      "d": "Neuropathischer Schmerz"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Welcher Schmerz entsteht durch Säure?",
+    "answers": {
+      "a": "Thermisch",
+      "b": "Chemisch",
+      "c": "Mechanisch",
+      "d": "Viszeral"
+    },
+    "correct": "b"
+  },
+  {
+    "question": "Welcher Schmerz entsteht durch Strahlung?",
+    "answers": {
+      "a": "Chemisch",
+      "b": "Physikalisch",
+      "c": "Mechanisch",
+      "d": "Somatisch"
+    },
+    "correct": "b"
+  },
+  {
+    "question": "Welcher Faktor beeinflusst die Schmerzwahrnehmung?",
+    "answers": {
+      "a": "Angst",
+      "b": "Schlaf",
+      "c": "Erfahrung",
+      "d": "Alle Antworten sind richtig"
+    },
+    "correct": "d"
+  },
+  {
+    "question": "Welche Aussage stimmt?",
+    "answers": {
+      "a": "Kultur beeinflusst das Schmerzempfinden.",
+      "b": "Kultur hat keinen Einfluss.",
+      "c": "Schmerz ist überall gleich.",
+      "d": "Männer empfinden keinen Schmerz."
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Welcher Faktor kann Schmerzen verstärken?",
+    "answers": {
+      "a": "Depression",
+      "b": "Gute Laune",
+      "c": "Ausreichender Schlaf",
+      "d": "Entspannung"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Welche Aussage stimmt?",
+    "answers": {
+      "a": "Schmerz ist immer objektiv.",
+      "b": "Schmerz ist subjektiv.",
+      "c": "Schmerz ist messbar wie Blutdruck.",
+      "d": "Schmerz ist eingebildet."
+    },
+    "correct": "b"
+  },
+  {
+    "question": "Welche Skala wird bei Erwachsenen häufig verwendet?",
+    "answers": {
+      "a": "NRS",
+      "b": "APGAR",
+      "c": "Glasgow",
+      "d": "Barthel"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Was bedeutet NRS?",
+    "answers": {
+      "a": "Numerische Ratingskala",
+      "b": "Neurologische Reflexskala",
+      "c": "Nationale Schmerzskala",
+      "d": "Neue Reizskala"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Welche Werte umfasst die NRS?",
+    "answers": {
+      "a": "0–5",
+      "b": "1–5",
+      "c": "0–10",
+      "d": "1–20"
+    },
+    "correct": "c"
+  },
+  {
+    "question": "Welche Skala eignet sich besonders für Kinder?",
+    "answers": {
+      "a": "Faces-Skala",
+      "b": "Glasgow",
+      "c": "Braden",
+      "d": "Norton"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Welche Skala eignet sich besonders für Menschen mit Demenz?",
+    "answers": {
+      "a": "NRS",
+      "b": "BESD",
+      "c": "Glasgow",
+      "d": "APGAR"
+    },
+    "correct": "b"
+  },
+  {
+    "question": "Was wird bei der BESD beurteilt?",
+    "answers": {
+      "a": "Blutdruck",
+      "b": "Mimik und Verhalten",
+      "c": "Blutzucker",
+      "d": "Gewicht"
+    },
+    "correct": "b"
+  },
+  {
+    "question": "Was muss nach der Schmerzerfassung erfolgen?",
+    "answers": {
+      "a": "Dokumentation",
+      "b": "Intervention",
+      "c": "Evaluation",
+      "d": "Alle Antworten sind richtig"
+    },
+    "correct": "d"
+  },
+  {
+    "question": "Was bedeutet Evaluation?",
+    "answers": {
+      "a": "Schmerz ignorieren",
+      "b": "Wirkung der Maßnahme kontrollieren",
+      "c": "Medikament absetzen",
+      "d": "Arzt wechseln"
+    },
+    "correct": "b"
+  },
+  {
+    "question": "Welche Maßnahmen gehören zur WHO-Stufe 1?",
+    "answers": {
+      "a": "Nicht-Opioide",
+      "b": "Physikalische Maßnahmen",
+      "c": "Beide Antworten sind richtig",
+      "d": "Nur Morphin"
+    },
+    "correct": "c"
+  },
+  {
+    "question": "Welches Medikament gehört zur WHO-Stufe 1?",
+    "answers": {
+      "a": "Morphin",
+      "b": "Fentanyl",
+      "c": "Paracetamol",
+      "d": "Oxycodon"
+    },
+    "correct": "c"
+  },
+  {
+    "question": "Welches Medikament gehört ebenfalls zur WHO-Stufe 1?",
+    "answers": {
+      "a": "Metamizol",
+      "b": "Morphin",
+      "c": "Tilidin",
+      "d": "Fentanyl"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Welches Medikament gehört zur WHO-Stufe 2?",
+    "answers": {
+      "a": "Tilidin",
+      "b": "Morphin",
+      "c": "Fentanyl",
+      "d": "Oxycodon"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Welches Medikament gehört zur WHO-Stufe 2?",
+    "answers": {
+      "a": "Tramadol",
+      "b": "Morphin",
+      "c": "Fentanyl",
+      "d": "Buprenorphin"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Welches Medikament gehört zur WHO-Stufe 3?",
+    "answers": {
+      "a": "Paracetamol",
+      "b": "Ibuprofen",
+      "c": "Morphin",
+      "d": "Diclofenac"
+    },
+    "correct": "c"
+  },
+  {
+    "question": "Welches Medikament gehört ebenfalls zur WHO-Stufe 3?",
+    "answers": {
+      "a": "Fentanyl",
+      "b": "Tramadol",
+      "c": "Tilidin",
+      "d": "Novalgin"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Welche Wirkung hat Paracetamol?",
+    "answers": {
+      "a": "Analgetisch und antipyretisch",
+      "b": "Nur entzündungshemmend",
+      "c": "Antibiotisch",
+      "d": "Blutverdünnend"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Welche zusätzliche Wirkung hat Ibuprofen?",
+    "answers": {
+      "a": "Antiphlogistisch",
+      "b": "Beruhigend",
+      "c": "Antidepressiv",
+      "d": "Hustenstillend"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Warum wird in jeder WHO-Stufe ein Nicht-Opioid weitergegeben?",
+    "answers": {
+      "a": "Weil es an einem anderen Angriffspunkt wirkt.",
+      "b": "Weil es billiger ist.",
+      "c": "Weil Opioide verboten sind.",
+      "d": "Damit der Patient mehr Tabletten bekommt."
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Warum hilft eine immer höhere Morphindosis irgendwann nicht mehr?",
+    "answers": {
+      "a": "Alle Opioidrezeptoren sind besetzt.",
+      "b": "Der Körper braucht Zucker.",
+      "c": "Das Medikament wirkt im Magen.",
+      "d": "Morphin wirkt nur einmal."
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Welche physikalische Maßnahme gehört zur Schmerztherapie?",
+    "answers": {
+      "a": "Lagerung",
+      "b": "Wärme",
+      "c": "Kälte",
+      "d": "Alle Antworten sind richtig"
+    },
+    "correct": "d"
+  },
+  {
+    "question": "Welche Aussage ist richtig?",
+    "answers": {
+      "a": "Schmerz muss immer ernst genommen werden.",
+      "b": "Schmerz ist immer eingebildet.",
+      "c": "Schmerz ist nur psychisch.",
+      "d": "Schmerz entsteht nur bei Wunden."
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Welcher Merksatz ist richtig?",
+    "answers": {
+      "a": "Schmerz ist das, was der Patient sagt, wenn er Schmerzen hat.",
+      "b": "Nur der Arzt entscheidet, ob jemand Schmerzen hat.",
+      "c": "Schmerz kann man immer messen.",
+      "d": "Schmerzen sind objektiv."
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Welcher Stoff tritt bei einer Gewebeschädigung unter anderem aus den Zellen aus?",
+    "answers": {
+      "a": "Natrium",
+      "b": "Kalium",
+      "c": "Calcium",
+      "d": "Magnesium"
+    },
+    "correct": "b"
+  },
+  {
+    "question": "Was bewirken freigesetzte Mediatoren?",
+    "answers": {
+      "a": "Sie hemmen Nozizeptoren.",
+      "b": "Sie aktivieren Nozizeptoren.",
+      "c": "Sie zerstören Nerven.",
+      "d": "Sie bilden Narben."
+    },
+    "correct": "b"
+  },
+  {
+    "question": "Warum entsteht nach einer Verletzung ein Ödem?",
+    "answers": {
+      "a": "Wegen Sauerstoffmangel",
+      "b": "Durch Flüssigkeitseinlagerung",
+      "c": "Durch Fieber",
+      "d": "Durch Blutarmut"
+    },
+    "correct": "b"
+  },
+  {
+    "question": "Welche Aufgabe haben A-Delta-Fasern?",
+    "answers": {
+      "a": "Langsame Schmerzleitung",
+      "b": "Schnelle Schmerzleitung",
+      "c": "Motorik",
+      "d": "Tastempfinden"
+    },
+    "correct": "b"
+  },
+  {
+    "question": "Welche Eigenschaft besitzen A-Delta-Fasern?",
+    "answers": {
+      "a": "Keine Myelinscheide",
+      "b": "Myelinscheide vorhanden",
+      "c": "Sehr dick",
+      "d": "Keine Nervenleitung"
+    },
+    "correct": "b"
+  },
+  {
+    "question": "Warum leiten C-Fasern langsamer?",
+    "answers": {
+      "a": "Sie besitzen keine Myelinscheide.",
+      "b": "Sie sind motorische Nerven.",
+      "c": "Sie liegen im Gehirn.",
+      "d": "Sie enthalten kein Kalium."
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Welche Aussage trifft auf C-Fasern zu?",
+    "answers": {
+      "a": "Sie vermitteln den dumpfen Schmerz.",
+      "b": "Sie vermitteln den ersten Schmerz.",
+      "c": "Sie vermitteln Berührung.",
+      "d": "Sie leiten Reflexe."
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Welcher Schmerz tritt zuerst auf?",
+    "answers": {
+      "a": "Dumpfer Schmerz",
+      "b": "Stechender Schmerz",
+      "c": "Chronischer Schmerz",
+      "d": "Viszeraler Schmerz"
+    },
+    "correct": "b"
+  },
+  {
+    "question": "Welcher Schmerz hält länger an?",
+    "answers": {
+      "a": "Erster Schmerz",
+      "b": "Zweiter Schmerz",
+      "c": "Akuter Schmerz",
+      "d": "Reflexschmerz"
+    },
+    "correct": "b"
+  },
+  {
+    "question": "Was geschieht im Rückenmark?",
+    "answers": {
+      "a": "Schmerz wird bewusst wahrgenommen.",
+      "b": "Reflexe werden ausgelöst.",
+      "c": "Hormone werden produziert.",
+      "d": "Blut wird gebildet."
+    },
+    "correct": "b"
+  },
+  {
+    "question": "Welche Aussage zu Reflexen stimmt?",
+    "answers": {
+      "a": "Reflexe werden im Großhirn ausgelöst.",
+      "b": "Reflexe entstehen im Rückenmark.",
+      "c": "Reflexe entstehen im Herzen.",
+      "d": "Reflexe entstehen in der Leber."
+    },
+    "correct": "b"
+  },
+  {
+    "question": "Welche Struktur filtert Schmerzreize?",
+    "answers": {
+      "a": "Thalamus",
+      "b": "Milz",
+      "c": "Pankreas",
+      "d": "Hypophyse"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Warum kann Schmerz Übelkeit verursachen?",
+    "answers": {
+      "a": "Wegen des Cortex",
+      "b": "Wegen des Hirnstamms",
+      "c": "Wegen der Leber",
+      "d": "Wegen der Milz"
+    },
+    "correct": "b"
+  },
+  {
+    "question": "Wo wird der Schmerz emotional bewertet?",
+    "answers": {
+      "a": "Rückenmark",
+      "b": "Limbisches System",
+      "c": "Niere",
+      "d": "Herz"
+    },
+    "correct": "b"
+  },
+  {
+    "question": "Was entscheidet darüber, ob Schmerz angenehm oder unangenehm empfunden wird?",
+    "answers": {
+      "a": "Die Muskulatur",
+      "b": "Das emotionale Zentrum",
+      "c": "Die Haut",
+      "d": "Die Leber"
+    },
+    "correct": "b"
+  },
+  {
+    "question": "Was beeinflusst das Schmerzempfinden NICHT?",
+    "answers": {
+      "a": "Kultur",
+      "b": "Stimmung",
+      "c": "Erfahrungen",
+      "d": "Augenfarbe"
+    },
+    "correct": "d"
+  },
+  {
+    "question": "Welcher psychische Faktor beeinflusst Schmerzen besonders?",
+    "answers": {
+      "a": "Angst",
+      "b": "Haarfarbe",
+      "c": "Blutgruppe",
+      "d": "Schuhgröße"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Warum empfinden Menschen Schmerzen unterschiedlich?",
+    "answers": {
+      "a": "Unterschiedliche Kultur",
+      "b": "Unterschiedliche Erfahrungen",
+      "c": "Unterschiedliche Erziehung",
+      "d": "Alle Antworten sind richtig"
+    },
+    "correct": "d"
+  },
+  {
+    "question": "Welche Aussage über Kultur stimmt?",
+    "answers": {
+      "a": "Kultur beeinflusst die Schmerzwahrnehmung.",
+      "b": "Kultur spielt keine Rolle.",
+      "c": "Schmerz ist weltweit identisch.",
+      "d": "Nur Kinder reagieren unterschiedlich."
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Welche Aussage zur Erziehung stimmt?",
+    "answers": {
+      "a": "Erziehung kann das Schmerzverhalten beeinflussen.",
+      "b": "Erziehung hat keinen Einfluss.",
+      "c": "Nur Gene beeinflussen Schmerzen.",
+      "d": "Nur Medikamente beeinflussen Schmerzen."
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Welchen Einfluss hat Schlafmangel?",
+    "answers": {
+      "a": "Schmerzen werden oft stärker wahrgenommen.",
+      "b": "Schmerzen verschwinden.",
+      "c": "Schmerzen werden immer chronisch.",
+      "d": "Es gibt keinen Einfluss."
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Was kann die Schmerzwahrnehmung verstärken?",
+    "answers": {
+      "a": "Depression",
+      "b": "Gute Laune",
+      "c": "Urlaub",
+      "d": "Sport"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Was versteht man unter sekundärem Krankheitsgewinn?",
+    "answers": {
+      "a": "Der Patient erhält Aufmerksamkeit.",
+      "b": "Die Krankheit verschwindet.",
+      "c": "Der Blutdruck steigt.",
+      "d": "Die Wunde heilt schneller."
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Welche Aussage über Kinder trifft zu?",
+    "answers": {
+      "a": "Kinder können Schmerzen oft schlechter lokalisieren.",
+      "b": "Kinder empfinden keine Schmerzen.",
+      "c": "Kinder haben keine Nozizeptoren.",
+      "d": "Kinder haben nur Nervenschmerzen."
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Warum zeigen kleine Kinder häufig auf den Bauch?",
+    "answers": {
+      "a": "Sie können Schmerzen noch schlecht lokalisieren.",
+      "b": "Sie haben immer Bauchschmerzen.",
+      "c": "Der Bauch ist empfindlicher.",
+      "d": "Weil dort die meisten Nozizeptoren liegen."
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Welcher Schmerz ist gut lokalisierbar?",
+    "answers": {
+      "a": "Somatischer Schmerz",
+      "b": "Viszeraler Schmerz",
+      "c": "Phantomschmerz",
+      "d": "Psychischer Schmerz"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Welcher Schmerz strahlt häufig aus?",
+    "answers": {
+      "a": "Viszeraler Schmerz",
+      "b": "Somatischer Schmerz",
+      "c": "Mechanischer Schmerz",
+      "d": "Thermischer Schmerz"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Wie wird viszeraler Schmerz häufig beschrieben?",
+    "answers": {
+      "a": "Krampfartig",
+      "b": "Dumpf",
+      "c": "Beide Antworten sind richtig",
+      "d": "Stechend"
+    },
+    "correct": "c"
+  },
+  {
+    "question": "Welcher Schmerz verändert sich häufig bei einer Komplikation nach einer OP?",
+    "answers": {
+      "a": "Stechender Schmerz wird dumpf.",
+      "b": "Dumpfer Schmerz wird stechend.",
+      "c": "Schmerz verschwindet sofort.",
+      "d": "Schmerz bleibt immer gleich."
+    },
+    "correct": "b"
+  },
+  {
+    "question": "Warum sollte ein dumpfer Bauchschmerz nach einer OP ernst genommen werden?",
+    "answers": {
+      "a": "Er kann auf Komplikationen hinweisen.",
+      "b": "Er bedeutet Heilung.",
+      "c": "Er ist immer normal.",
+      "d": "Er hat keine Bedeutung."
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Wie viele Stufen besitzt das WHO-Stufenschema?",
+    "answers": {
+      "a": "2",
+      "b": "3",
+      "c": "4",
+      "d": "5"
+    },
+    "correct": "b"
+  },
+  {
+    "question": "Welche Medikamentengruppe findet sich in jeder WHO-Stufe?",
+    "answers": {
+      "a": "Nicht-Opioide",
+      "b": "Antibiotika",
+      "c": "Insulin",
+      "d": "Kortison"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Welche Maßnahme gehört immer zusätzlich dazu?",
+    "answers": {
+      "a": "Physikalische Maßnahmen",
+      "b": "Beatmung",
+      "c": "Dialyse",
+      "d": "Chemotherapie"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Welche physikalische Maßnahme lindert Schmerzen?",
+    "answers": {
+      "a": "Lagerung",
+      "b": "Wärme",
+      "c": "Kälte",
+      "d": "Alle Antworten sind richtig"
+    },
+    "correct": "d"
+  },
+  {
+    "question": "Welches Medikament gehört NICHT zur WHO-Stufe 1?",
+    "answers": {
+      "a": "Paracetamol",
+      "b": "Ibuprofen",
+      "c": "Morphin",
+      "d": "Novalgin"
+    },
+    "correct": "c"
+  },
+  {
+    "question": "Welches Medikament ist ein schwach wirksames Opioid?",
+    "answers": {
+      "a": "Tramadol",
+      "b": "Morphin",
+      "c": "Fentanyl",
+      "d": "Ibuprofen"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Welches Medikament zählt zu den stark wirksamen Opioiden?",
+    "answers": {
+      "a": "Fentanyl",
+      "b": "Tramadol",
+      "c": "Tilidin",
+      "d": "Diclofenac"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Warum werden Opioide mit Nicht-Opioiden kombiniert?",
+    "answers": {
+      "a": "Unterschiedliche Wirkorte",
+      "b": "Wegen des Geschmacks",
+      "c": "Wegen der Farbe",
+      "d": "Wegen des Preises"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Wo wirken Nicht-Opioide hauptsächlich?",
+    "answers": {
+      "a": "Peripher",
+      "b": "Ausschließlich im Gehirn",
+      "c": "Nur im Rückenmark",
+      "d": "Nur im Herzen"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Wo wirken Opioide hauptsächlich?",
+    "answers": {
+      "a": "Zentral",
+      "b": "Ausschließlich in den Muskeln",
+      "c": "Nur im Magen",
+      "d": "Nur in den Gelenken"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Wann sollte Schmerz erneut beurteilt werden?",
+    "answers": {
+      "a": "Nach jeder Intervention",
+      "b": "Nur bei Aufnahme",
+      "c": "Nie",
+      "d": "Einmal pro Woche"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Warum wird Schmerz dokumentiert?",
+    "answers": {
+      "a": "Zur Verlaufskontrolle",
+      "b": "Nur für die Krankenkasse",
+      "c": "Nur für den Arzt",
+      "d": "Es ist freiwillig."
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Welche Reihenfolge ist richtig?",
+    "answers": {
+      "a": "Messen – Dokumentieren – Intervenieren – Evaluieren",
+      "b": "Intervenieren – Dokumentieren – Vergessen",
+      "c": "Nur Medikament geben",
+      "d": "Nur Dokumentieren"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Was bedeutet NRS 0?",
+    "answers": {
+      "a": "Stärkster Schmerz",
+      "b": "Kein Schmerz",
+      "c": "Mittlerer Schmerz",
+      "d": "Chronischer Schmerz"
+    },
+    "correct": "b"
+  },
+  {
+    "question": "Was bedeutet NRS 10?",
+    "answers": {
+      "a": "Kein Schmerz",
+      "b": "Leichter Schmerz",
+      "c": "Stärkster vorstellbarer Schmerz",
+      "d": "Chronischer Schmerz"
+    },
+    "correct": "c"
+  },
+  {
+    "question": "Welche Aussage zur BESD stimmt?",
+    "answers": {
+      "a": "Sie eignet sich für Menschen mit Demenz.",
+      "b": "Sie eignet sich nur für Kinder.",
+      "c": "Sie misst den Blutdruck.",
+      "d": "Sie misst Fieber."
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Welche Beobachtung gehört NICHT zur BESD?",
+    "answers": {
+      "a": "Mimik",
+      "b": "Gestik",
+      "c": "Blutdruck",
+      "d": "Lautäußerungen"
+    },
+    "correct": "c"
+  },
+  {
+    "question": "Welche Skala ist für Säuglinge geeignet?",
+    "answers": {
+      "a": "KUSS",
+      "b": "Glasgow",
+      "c": "Braden",
+      "d": "Norton"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Warum entsteht Phantomschmerz?",
+    "answers": {
+      "a": "Wegen verbleibender Nervenenden",
+      "b": "Wegen Muskelkater",
+      "c": "Wegen Fieber",
+      "d": "Wegen Blutarmut"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Was kann Phantomschmerzen verstärken?",
+    "answers": {
+      "a": "Wetterwechsel",
+      "b": "Kaltes Wasser trinken",
+      "c": "Schlaf",
+      "d": "Essen"
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Welche Aussage über Schmerz ist richtig?",
+    "answers": {
+      "a": "Schmerz ist subjektiv.",
+      "b": "Schmerz ist immer objektiv.",
+      "c": "Schmerz kann nicht beschrieben werden.",
+      "d": "Schmerz ist immer gleich."
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Welche Aussage trifft zu?",
+    "answers": {
+      "a": "Schmerz kann ohne sichtbare Verletzung auftreten.",
+      "b": "Schmerz entsteht nur bei offenen Wunden.",
+      "c": "Schmerz entsteht nur bei Brüchen.",
+      "d": "Schmerz entsteht nur bei Operationen."
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Welcher Satz beschreibt Schmerz am besten?",
+    "answers": {
+      "a": "Schmerz ist immer messbar.",
+      "b": "Schmerz ist das, was der Patient angibt.",
+      "c": "Nur Ärzte können Schmerz beurteilen.",
+      "d": "Schmerz ist Einbildung."
+    },
+    "correct": "b"
+  },
+  {
+    "question": "Welche Aussage stimmt?",
+    "answers": {
+      "a": "Schmerz kann psychische und körperliche Ursachen haben.",
+      "b": "Schmerz ist nur psychisch.",
+      "c": "Schmerz ist nur körperlich.",
+      "d": "Schmerz ist immer eingebildet."
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Warum sollte Schmerz früh behandelt werden?",
+    "answers": {
+      "a": "Weil sich Schmerz chronifizieren kann.",
+      "b": "Weil Medikamente sonst nicht wirken.",
+      "c": "Weil Patienten sonst schlafen.",
+      "d": "Weil Schmerzen immer verschwinden."
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Welche Aussage zu chronischem Schmerz stimmt?",
+    "answers": {
+      "a": "Er kann sich verselbstständigen.",
+      "b": "Er verschwindet immer nach 24 Stunden.",
+      "c": "Er betrifft nur alte Menschen.",
+      "d": "Er entsteht nur nach Operationen."
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Welche Aussage trifft auf chronische Schmerzen zu?",
+    "answers": {
+      "a": "Nerven leiten den Schmerz mit der Zeit schneller.",
+      "b": "Nerven leiten immer gleich schnell.",
+      "c": "Nerven hören auf zu arbeiten.",
+      "d": "Nerven sterben sofort ab."
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Welche Aussage zu Nozizeptoren stimmt?",
+    "answers": {
+      "a": "Sie sind Schmerzrezeptoren.",
+      "b": "Sie sind Muskelzellen.",
+      "c": "Sie produzieren Hormone.",
+      "d": "Sie bilden Blut."
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Warum wird Schmerz immer individuell beurteilt?",
+    "answers": {
+      "a": "Jeder Mensch empfindet Schmerz unterschiedlich.",
+      "b": "Jeder Mensch hat dieselben Schmerzen.",
+      "c": "Schmerz hängt nur von der Verletzung ab.",
+      "d": "Schmerz ist objektiv messbar."
+    },
+    "correct": "a"
+  },
+  {
+    "question": "Welcher Satz ist für die Pflege besonders wichtig?",
+    "answers": {
+      "a": "Schmerzen ernst nehmen und regelmäßig evaluieren.",
+      "b": "Schmerzen ignorieren.",
+      "c": "Schmerzen nur dokumentieren.",
+      "d": "Schmerzen nur auf Nachfrage behandeln."
+    },
+    "correct": "a"
+  }
+]
