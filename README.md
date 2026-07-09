@@ -1,96 +1,151 @@
-# Who Wants To Be A Millionaire
-#### Author: Bocaletto Luca
+# Wer wird Millionär? – Schmerz Lernquiz (Casino Edition)
 
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://opensource.org/licenses/GPL-3.0)
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)](https://www.php.net)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![JSON](https://img.shields.io/badge/JSON-000000?logo=json&logoColor=white)](https://www.json.org/json-en.html)
-[![Project Completed](https://img.shields.io/badge/Project_Completed-green.svg)]()
-[![Project Tested](https://img.shields.io/badge/Project_Tested-Success-brightgreen.svg)]()
-[![Multi-device](https://img.shields.io/badge/Multi--Device-Enabled-blue.svg)]()
-[![Responsive Design](https://img.shields.io/badge/Responsive-Design-blueviolet.svg)]()
+> **Nur zu Bildungszwecken · For education purposes only**
 
-**Who Wants To Be A Millionaire** is an interactive web quiz game that replicates the iconic TV show format. Answer multiple-choice questions to win increasingly higher prizes, and use lifelines like 50/50 and Switch to improve your odds. Built with HTML5, CSS3 (with Bootstrap), JavaScript, PHP, and JSON, the game supports touchscreen, keyboard, mouse, and gamepad inputs and even saves high scores!
-
-[![Test Online](https://img.shields.io/badge/Test%20Online-Click%20Here-brightgreen?style=for-the-badge)](https://bocaletto-luca.github.io/Who-Wants-To-Be-A-Millionaire/)
+Ein interaktives Lernquiz im Stil von *Wer wird Millionär?* mit **120 Multiple-Choice-Fragen zum Thema Schmerz** (Pflegeausbildung).  
+Optimiert für **Handy, iPad und PC** – mit Casino/TV-Show-Design.
 
 ---
 
-## Screenshot
+## Credits
 
-![Screenshot 2025-07-04 at 16-10-26 Who Wants To Be A Millionaire Bocaletto Luca WebGame](https://github.com/user-attachments/assets/3c260565-33c7-43dd-8030-2341f58c4011)
+| | |
+|---|---|
+| **Angepasst & erweitert von** | [Bell-O](https://github.com/Bell-O) |
+| **Original-Grundgerüst von** | [Bocaletto Luca](https://github.com/bocaletto-luca) |
 
-![Screenshot 2025-07-04 at 16-11-02 Who Wants to be a Milionaire](https://github.com/user-attachments/assets/848d5b56-5d7d-4d4b-9e2e-952fa99ad220)
+Dieses Projekt basiert auf dem Open-Source-Spiel [Who Wants To Be A Millionaire](https://github.com/bocaletto-luca/Who-Wants-To-Be-A-Millionaire) und wurde für den **Lern- und Übungsgebrauch** im Pflegekontext umgebaut.
 
-## Table of Contents
+---
 
-- [Features](#features)
-- [Technologies](#technologies)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+## Hinweis (Bildungszweck)
+
+Dieses Spiel ist **kein kommerzielles Produkt** und **kein Glücksspiel**.  
+Es dient ausschließlich dazu, Wissen zu Schmerz, Schmerzwahrnehmung, Schmerztherapie und verwandten Pflegethemen zu wiederholen und zu festigen.
+
+---
 
 ## Features
 
-- **Interactive Quiz:** Answer multiple-choice questions based on a prize ladder.
-- **Lifelines:** Use lifelines like 50/50 (eliminates two wrong answers) and Switch (changes the current question without advancing your prize level).
-- **Responsive Design:** Fully adapts to desktop, tablet, and mobile screens.
-- **Multi-Device Compatibility:** Supports touchscreen, keyboard, mouse, and gamepad inputs.
-- **Record Saving:** Save and view high scores using PHP and JSON.
-- **Animated Effects:** Engaging animations and transitions make gameplay exciting.
-
-## Technologies
-
-- **HTML5**
-- **CSS3** (with Bootstrap for responsive design)
-- **JavaScript** (vanilla for game logic and interactivity)
-- **PHP** (for back-end record saving)
-- **JSON** (for storing questions and high scores)
-
-## Installation
-
-1. Clone the repository:
-
-git clone https://github.com/bocaletto-luca/who-wants-to-be-a-millionaire.git
-
-
-2. Open the project folder.
-3. Ensure your PHP-enabled server (e.g., Apache) is running.
-4. Set write permissions on `record.json` if necessary.
-5. Open `index.html` in your browser or host the project on your local server.
-
-## Usage
-
-- Navigate to the Home page.
-- When prompted, enter your name to start the game.
-- Answer multiple-choice questions to climb the prize ladder.
-- Use lifelines:
-  - **50/50:** Eliminates two incorrect answers.
-  - **Switch:** Replaces the current question without advancing the prize level.
-- Click **Quit** to retire and claim your current winnings.
-- Save your record at the end of the game.
-- View high scores on the Records page.
-
-## Contributing
-
-Contributions, bug reports, and suggestions are welcome! Please fork the repository, submit pull requests, or open issues for feedback and improvements.
-
-## License
-
-This project is licensed under the GPLv3 License. See the LICENSE file for details.
-
-## Contact
-
-- GitHub: [bocaletto-luca](https://github.com/bocaletto-luca)
-- Github Site: [https://bocaletto-luca.github.io](https://bocaletto-luca.github.io)
-- Official Site: [https://bocalettoluca.altervista.org](https://bocalettoluca.altervista.org)
-
-Enjoy playing **Who Wants To Be A Millionaire** and feel free to customize it further!
-
-For now this game in only italian language.
+- **120 Schmerz-Fragen** in deutscher Sprache
+- **Gewinnleiter** mit 10 Stufen (100 € bis 32.000 €)
+- **Gesicherter Gewinn** ab Frage 5 (mindestens 1.000 € bei Fehler danach)
+- **Joker:** 50:50 und Wechseln
+- **Antwort bestätigen** – wie in der TV-Show („Ist das deine endgültige Antwort?“)
+- **Richtige Antwort anzeigen** bei falscher Wahl
+- **Casino / TV-Show Theme** (dunkles Studio, Gold-Akzente)
+- **Responsive UI** für Smartphone, Tablet und Desktop
+- **Steuerung:** Touch, Maus, Tastatur (A/B/C/D, Enter, Esc, Q) und Gamepad (Basis)
 
 ---
+
+## Spielstart
+
+### Option A – Direkt im Browser
+
+1. `index.html` öffnen
+2. Auf **Spiel** klicken
+3. Namen eingeben und loslegen
+
+### Option B – Lokaler Server (empfohlen für Safari)
+
+Doppelklick auf `start-server.command`  
+oder im Terminal:
+
+```bash
+cd Who-Wants-To-Be-A-Millionaire-main
+python3 -m http.server 8080
+```
+
+Dann im Browser öffnen: `http://localhost:8080`
+
+> **Tipp:** Safari blockiert manchmal lokale Dateien (`file://`). Der lokale Server ist die zuverlässigste Lösung.
+
+---
+
+## Steuerung
+
+| Eingabe | Aktion |
+|--------|--------|
+| **A / B / C / D** | Antwort auswählen |
+| **Enter** | Auswahl bestätigen |
+| **Esc** | Auswahl abbrechen |
+| **Q** | Aufhören und Gewinn mitnehmen |
+
+---
+
+## Projektstruktur
+
+```
+├── index.html          # Startseite
+├── game.html           # Spiel
+├── help.html           # Spielanleitung
+├── main.js             # Spiellogik + eingebettete Fragen
+├── questions.json      # Fragen (Quelldatei zum Bearbeiten)
+├── controllers.js      # Tastatur & Gamepad
+├── style.css           # Casino-Theme & Responsive Design
+├── start-server.command # Lokaler Server (macOS)
+└── LICENSE             # GPLv3
+```
+
+---
+
+## Fragen bearbeiten
+
+1. `questions.json` anpassen (Format: `question`, `answers` a–d, `correct`)
+2. Fragen in `main.js` aktualisieren:
+
+```bash
+python3 -c "
+import json
+with open('questions.json', encoding='utf-8') as f:
+    data = json.load(f)
+with open('main.js', encoding='utf-8') as f:
+    main = f.read()
+idx = main.find('\n\nlet questions')
+with open('main.js', 'w', encoding='utf-8') as f:
+    f.write('const QUESTIONS_DATA = ' + json.dumps(data, ensure_ascii=False, indent=2) + ';\n\n' + main[idx+2:])
+print('Fragen in main.js aktualisiert')
+"
+```
+
+---
+
+## Technologien
+
+- HTML5
+- CSS3 (Custom Casino Theme + Bootstrap 4)
+- JavaScript (Vanilla)
+- JSON (Fragenkatalog)
+- jQuery / Bootstrap (CDN, für Modal & Layout)
+
+**Kein PHP, keine Datenbank, keine Server-Anbindung nötig** – reines Frontend.
+
+---
+
+## Themen der Fragen
+
+- Schmerzgrundlagen & Nozizeptoren
+- Schmerzarten (akut, chronisch, neuropathisch, viszeral …)
+- Schmerzwahrnehmung & Einflussfaktoren
+- Schmerzskalen (NRS, BESD, Faces-Skala …)
+- WHO-Stufenschema & Schmerztherapie
+- Phantomschmerz & Pflegehinweise
+
+---
+
+## Lizenz
+
+Dieses Projekt steht unter der **GPLv3** – siehe [LICENSE](LICENSE).
+
+Das Originalprojekt stammt von **Bocaletto Luca**.  
+Die Schmerz-Edition und Anpassungen stammen von **Bell-O**.
+
+---
+
+## Kontakt
+
+- **Bell-O:** [github.com/Bell-O](https://github.com/Bell-O)
+- **Original-Autor:** [github.com/bocaletto-luca](https://github.com/bocaletto-luca)
+
+Viel Erfolg beim Lernen!
